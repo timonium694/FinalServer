@@ -20,7 +20,7 @@ public interface IAuthService {
 	public Response authorizeUser(AuthCredentialsV1 streetCred) throws UserDoesNotExistException, IOException;
 
 	@PUT
-	@Path("/updatePass")
+	@Path("/update")
 	@Consumes("application/vnd.neumont.auth.edu-v1+json")
 	@Produces("application/vnd.neumont.auth.edu-v1+json")
 	public Response updateUserPassword(UpdateUserCredentialsV1 streetCred)  throws UserDoesNotExistException, IOException;
