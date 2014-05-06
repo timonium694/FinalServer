@@ -481,3 +481,35 @@
 2014-05-05 10:42:51,791 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\ProfileNubayClient\ProfileNubayClient_1.0\src\main\resources
 2014-05-05 10:42:51,792 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-05-05 10:42:51,796 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\ProfileNubayClient\ProfileNubayClient_1.0\src\test\resources
+2014-05-06 09:28:11,122 [Worker-258] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-client\pom.xml.
+2014-05-06 09:28:14,099 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/main/java
+2014-05-06 09:28:14,100 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/test/java
+2014-05-06 09:28:14,284 [Worker-258] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 5 sec
+2014-05-06 09:28:14,849 [Worker-267] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-06 09:28:14,851 [Worker-267] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-06 09:28:15,020 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:15,308 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-client\src\main\resources
+2014-05-06 09:28:15,312 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:15,327 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-client\src\test\resources
+2014-05-06 09:28:16,756 [Worker-262] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-client\pom.xml.
+2014-05-06 09:28:17,504 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:17,520 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-client\src\main\resources
+2014-05-06 09:28:17,526 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:17,537 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-client\src\test\resources
+2014-05-06 09:28:30,321 [Worker-270] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\pom.xml.
+2014-05-06 09:28:31,374 [Worker-270] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/main/java
+2014-05-06 09:28:31,375 [Worker-270] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/test/java
+2014-05-06 09:28:32,239 [Worker-254] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\pom.xml.
+2014-05-06 09:28:32,953 [Worker-270] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2014-05-06 09:28:32,975 [Worker-265] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-06 09:28:32,977 [Worker-265] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-06 09:28:33,375 [Worker-269] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\pom.xml.
+2014-05-06 09:28:34,021 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:34,032 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\src\main\resources
+2014-05-06 09:28:34,035 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:34,046 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\src\test\resources
+2014-05-06 09:28:35,164 [Worker-265] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\pom.xml.
+2014-05-06 09:28:36,397 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:36,409 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\src\main\resources
+2014-05-06 09:28:36,412 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 09:28:36,425 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\src\test\resources
