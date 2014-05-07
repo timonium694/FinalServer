@@ -1,0 +1,6 @@
+package edu.neumont.csc380.Model;
+
+public class AuctionFactory {
+	private HashMap<int, User> Users = new HashMap<int, User>();
+
+}

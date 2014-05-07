@@ -1,0 +1,8 @@
+package edu.neumont.csc380.Model;
+
+public class User {
+	
+	private int id;
+	private string username;
+
+}
