@@ -60,6 +60,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hellorest-client</finalName>
+    <finalName>NuBay-Client</finalName>
   </build>
 </project>

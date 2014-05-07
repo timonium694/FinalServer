@@ -60,6 +60,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hellorest-client</finalName>
+    <finalName>Profile-client</finalName>
   </build>
 </project>

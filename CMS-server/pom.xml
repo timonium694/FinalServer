@@ -5,7 +5,7 @@
   <artifactId>CMS-server</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>hellorest-server Maven Webapp</name>
+  <name>CMS-Server Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
   	<cxf.version>2.7.7</cxf.version>
@@ -57,6 +57,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hellorest-server</finalName>
+    <finalName>CMS-server</finalName>
   </build>
 </project>

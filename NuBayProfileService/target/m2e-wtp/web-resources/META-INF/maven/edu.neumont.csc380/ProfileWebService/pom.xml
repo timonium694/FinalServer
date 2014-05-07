@@ -76,6 +76,6 @@
 	</dependency>
   </dependencies>
   <build>
-    <finalName>hellorest-server</finalName>
+    <finalName>Profile-server</finalName>
   </build>
 </project>

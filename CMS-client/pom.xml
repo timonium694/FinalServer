@@ -57,6 +57,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hellorest-client</finalName>
+    <finalName>CMS-Client</finalName>
   </build>
 </project>

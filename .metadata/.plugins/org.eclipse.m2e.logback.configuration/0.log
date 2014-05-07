@@ -939,3 +939,66 @@
 2014-05-07 09:48:23,101 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Auth-Client
 2014-05-07 09:48:23,101 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Auth-Client
 2014-05-07 09:48:23,109 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:11,212 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 09:52:12,505 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:12,510 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 09:52:12,512 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:12,516 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 09:52:12,516 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Auth-Server(base)
+2014-05-07 09:52:12,516 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Auth-Server(base)
+2014-05-07 09:52:12,526 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:26,319 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 09:52:26,882 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:26,888 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 09:52:26,892 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:26,895 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 09:52:26,898 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Auth-Server(base)
+2014-05-07 09:52:26,898 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Auth-Server(base)
+2014-05-07 09:52:26,905 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:47,072 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 09:52:47,586 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:47,588 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 09:52:47,590 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:52:47,592 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 09:52:47,593 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Auth-Client
+2014-05-07 09:52:47,593 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Auth-Client
+2014-05-07 09:52:47,598 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:13,981 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 09:53:14,484 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:14,489 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 09:53:14,493 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:14,496 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 09:53:14,499 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Auth-Client
+2014-05-07 09:53:14,500 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Auth-Client
+2014-05-07 09:53:14,506 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:42,489 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-07 09:53:42,698 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:42,701 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 09:53:42,702 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:42,705 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 09:53:42,759 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 09:53:43,175 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:43,183 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 09:53:43,185 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:53:43,193 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 09:53:43,193 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CMS-server
+2014-05-07 09:53:43,196 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CMS-server
+2014-05-07 09:53:43,200 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:10,513 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 09:54:10,726 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:10,731 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:54:10,732 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:10,737 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:54:24,322 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 09:54:24,726 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:24,731 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-07 09:54:24,746 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:24,749 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-07 09:54:24,751 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of NuBayProfileService
+2014-05-07 09:54:24,751 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for NuBayProfileService
+2014-05-07 09:54:24,755 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:37,763 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient_1.0\pom.xml.
+2014-05-07 09:54:38,010 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:38,016 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-07 09:54:38,020 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:54:38,023 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources

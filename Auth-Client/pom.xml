@@ -5,7 +5,7 @@
 	<artifactId>Auth-Client</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hellorest-server Maven Webapp</name>
+	<name>Auth-Client Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<cxf.version>2.7.11</cxf.version>
@@ -80,6 +80,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>hellorest-server</finalName>
+		<finalName>Auth-Client</finalName>
 	</build>
 </project>
