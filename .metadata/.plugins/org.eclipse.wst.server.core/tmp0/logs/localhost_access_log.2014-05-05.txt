@@ -1,8 +1,0 @@
-127.0.0.1 - - [05/May/2014:10:16:00 -0600] "GET / HTTP/1.1" 404 951
-0:0:0:0:0:0:0:1 - - [05/May/2014:10:16:01 -0600] "GET /hellorest-server/WEB-INF/classes/edu/neumont/csc380/auth/server/AuthServiceImpl.java HTTP/1.1" 404 949
-127.0.0.1 - - [05/May/2014:10:16:12 -0600] "POST /hellorest-server/rest/auth/create HTTP/1.1" 200 200
-127.0.0.1 - - [05/May/2014:10:17:49 -0600] "POST /hellorest-server/rest/auth/create HTTP/1.1" 200 200
-127.0.0.1 - - [05/May/2014:10:18:49 -0600] "POST /hellorest-server/rest/auth/create HTTP/1.1" 200 200
-127.0.0.1 - - [05/May/2014:10:18:53 -0600] "PUT /hellorest-server/rest/auth/update HTTP/1.1" 200 167
-127.0.0.1 - - [05/May/2014:10:18:55 -0600] "POST /hellorest-server/rest/auth/authorize HTTP/1.1" 200 167
-127.0.0.1 - - [05/May/2014:10:18:57 -0600] "DELETE /hellorest-server/rest/auth/deleteUser/Tim HTTP/1.1" 204 -

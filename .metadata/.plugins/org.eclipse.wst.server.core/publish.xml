@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <publish-info>
-  <server id="Tomcat v7.0 Server at localhost" path="publish0.dat"/>
+  <server id="CMS" path="publish2.dat"/>
+  <server id="AuthServer" path="publish1.dat"/>
+  <server id="Profile" path="publish3.dat"/>
 </publish-info>

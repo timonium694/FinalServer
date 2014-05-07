@@ -513,3 +513,336 @@
 2014-05-06 09:28:36,409 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\src\main\resources
 2014-05-06 09:28:36,412 [Worker-258] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-05-06 09:28:36,425 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Documents\Quarter8\DistributedSystems\Workspaces\FINALSERVER\FinalServer\CMS-server\src\test\resources
+2014-05-06 10:17:32,280 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-06 10:17:34,862 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-06 10:17:57,095 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:17:57,119 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-06 10:17:57,163 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:17:57,227 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-06 10:17:57,836 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-06 10:17:58,345 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-06 10:18:08,127 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:08,141 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-06 10:18:08,153 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:08,168 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-06 10:18:09,945 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-06 10:18:14,606 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-06 10:18:15,581 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:16,770 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2014-05-06 10:18:17,042 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.jar
+2014-05-06 10:18:17,934 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-06 10:18:17,940 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:18,030 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-extension-providers/2.7.7/cxf-rt-rs-extension-providers-2.7.7.pom
+2014-05-06 10:18:18,059 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-extension-providers/2.7.7/cxf-rt-rs-extension-providers-2.7.7.pom
+2014-05-06 10:18:18,174 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:18,245 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-parent/2.7.7/cxf-parent-2.7.7.pom
+2014-05-06 10:18:18,346 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-parent/2.7.7/cxf-parent-2.7.7.pom
+2014-05-06 10:18:18,626 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:18,686 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf/2.7.7/cxf-2.7.7.pom
+2014-05-06 10:18:18,735 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf/2.7.7/cxf-2.7.7.pom
+2014-05-06 10:18:19,418 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:19,597 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-api/2.7.7/cxf-api-2.7.7.pom
+2014-05-06 10:18:19,622 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-api/2.7.7/cxf-api-2.7.7.pom
+2014-05-06 10:18:20,156 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:20,247 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-core/2.7.7/cxf-rt-core-2.7.7.pom
+2014-05-06 10:18:20,280 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-core/2.7.7/cxf-rt-core-2.7.7.pom
+2014-05-06 10:18:20,472 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:20,560 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.7/cxf-rt-frontend-jaxrs-2.7.7.pom
+2014-05-06 10:18:20,578 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.7/cxf-rt-frontend-jaxrs-2.7.7.pom
+2014-05-06 10:18:20,899 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:20,977 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-bindings-xml/2.7.7/cxf-rt-bindings-xml-2.7.7.pom
+2014-05-06 10:18:21,014 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-bindings-xml/2.7.7/cxf-rt-bindings-xml-2.7.7.pom
+2014-05-06 10:18:21,924 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:22,216 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/2.7.7/cxf-rt-transports-http-2.7.7.pom
+2014-05-06 10:18:22,261 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/2.7.7/cxf-rt-transports-http-2.7.7.pom
+2014-05-06 10:18:22,772 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:22,916 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-extension-providers/2.7.7/cxf-rt-rs-extension-providers-2.7.7.jar
+2014-05-06 10:18:23,028 [New I/O client worker #10-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-core/2.7.7/cxf-rt-core-2.7.7.jar
+2014-05-06 10:18:23,033 [New I/O client worker #10-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-bindings-xml/2.7.7/cxf-rt-bindings-xml-2.7.7.jar
+2014-05-06 10:18:23,046 [New I/O client worker #10-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.7/cxf-rt-frontend-jaxrs-2.7.7.jar
+2014-05-06 10:18:23,045 [New I/O client worker #10-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/2.7.7/cxf-rt-transports-http-2.7.7.jar
+2014-05-06 10:18:23,040 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-rs-extension-providers/2.7.7/cxf-rt-rs-extension-providers-2.7.7.jar
+2014-05-06 10:18:23,040 [New I/O client worker #10-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6.jar
+2014-05-06 10:18:23,427 [New I/O client worker #10-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-transports-http/2.7.7/cxf-rt-transports-http-2.7.7.jar
+2014-05-06 10:18:23,536 [New I/O client worker #10-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-bindings-xml/2.7.7/cxf-rt-bindings-xml-2.7.7.jar
+2014-05-06 10:18:23,640 [New I/O client worker #10-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-api/2.7.7/cxf-api-2.7.7.jar
+2014-05-06 10:18:23,706 [New I/O client worker #10-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-core/2.7.7/cxf-rt-core-2.7.7.jar
+2014-05-06 10:18:23,992 [New I/O client worker #10-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.7/cxf-rt-frontend-jaxrs-2.7.7.jar
+2014-05-06 10:18:24,912 [New I/O client worker #10-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6.jar
+2014-05-06 10:18:25,224 [New I/O client worker #10-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-api/2.7.7/cxf-api-2.7.7.jar
+2014-05-06 10:18:30,041 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-06 10:18:30,568 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-06 10:18:31,032 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:31,083 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-06 10:18:31,119 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:31,154 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-06 10:18:31,256 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:31,708 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.pom
+2014-05-06 10:18:31,727 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.pom
+2014-05-06 10:18:32,143 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:32,637 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:32,645 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.3.3/jackson-jaxrs-providers-2.3.3.pom
+2014-05-06 10:18:32,692 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.3.3/jackson-jaxrs-providers-2.3.3.pom
+2014-05-06 10:18:32,694 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-06 10:18:32,717 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:32,744 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-06 10:18:33,046 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:33,231 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-06 10:18:33,478 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2014-05-06 10:18:33,515 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2014-05-06 10:18:33,678 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:33,734 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.pom
+2014-05-06 10:18:33,751 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.pom
+2014-05-06 10:18:34,016 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:34,133 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.pom
+2014-05-06 10:18:34,179 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.pom
+2014-05-06 10:18:34,341 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:34,417 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:34,446 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2014-05-06 10:18:34,485 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.3.2/maven-jar-plugin-2.3.2.pom
+2014-05-06 10:18:34,487 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.pom
+2014-05-06 10:18:34,525 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.pom
+2014-05-06 10:18:34,987 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:35,066 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:35,080 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+2014-05-06 10:18:35,112 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/21/maven-plugins-21.pom
+2014-05-06 10:18:35,155 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2014-05-06 10:18:35,166 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2014-05-06 10:18:35,294 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:35,396 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2014-05-06 10:18:35,430 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2014-05-06 10:18:35,711 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:35,785 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.pom
+2014-05-06 10:18:35,801 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:35,813 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.pom
+2014-05-06 10:18:35,871 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2014-05-06 10:18:35,887 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+2014-05-06 10:18:36,097 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:36,114 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:36,166 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2014-05-06 10:18:36,180 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.pom
+2014-05-06 10:18:36,191 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+2014-05-06 10:18:36,213 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+2014-05-06 10:18:36,325 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:36,425 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+2014-05-06 10:18:36,492 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+2014-05-06 10:18:36,564 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:36,666 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:36,706 [New I/O client worker #26-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar
+2014-05-06 10:18:36,710 [New I/O client worker #26-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.jar
+2014-05-06 10:18:36,726 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.jar
+2014-05-06 10:18:36,732 [New I/O client worker #26-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar
+2014-05-06 10:18:36,752 [New I/O client worker #26-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar
+2014-05-06 10:18:36,761 [New I/O client worker #26-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+2014-05-06 10:18:36,759 [New I/O client worker #26-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.jar
+2014-05-06 10:18:36,938 [New I/O client worker #26-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar
+2014-05-06 10:18:37,129 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.jar
+2014-05-06 10:18:37,212 [New I/O client worker #26-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.jar
+2014-05-06 10:18:37,293 [New I/O client worker #26-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.jar
+2014-05-06 10:18:37,344 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+2014-05-06 10:18:37,379 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+2014-05-06 10:18:37,418 [New I/O client worker #26-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+2014-05-06 10:18:37,530 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:37,550 [New I/O client worker #26-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar
+2014-05-06 10:18:37,595 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+2014-05-06 10:18:37,608 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+2014-05-06 10:18:37,680 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:37,725 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+2014-05-06 10:18:37,737 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+2014-05-06 10:18:37,851 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:37,917 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+2014-05-06 10:18:37,937 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+2014-05-06 10:18:38,067 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:38,120 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2014-05-06 10:18:38,135 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.pom
+2014-05-06 10:18:38,228 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:38,237 [New I/O client worker #26-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar
+2014-05-06 10:18:38,281 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+2014-05-06 10:18:38,290 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+2014-05-06 10:18:38,359 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:38,411 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+2014-05-06 10:18:38,434 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.0.1/plexus-3.0.1.pom
+2014-05-06 10:18:38,592 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:38,665 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2014-05-06 10:18:38,682 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2014-05-06 10:18:38,812 [Worker-15] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-06 10:18:38,878 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2014-05-06 10:18:38,886 [New I/O client worker #35-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2014-05-06 10:18:38,891 [New I/O client worker #35-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2014-05-06 10:18:38,895 [New I/O client worker #35-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2014-05-06 10:18:38,896 [New I/O client worker #35-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+2014-05-06 10:18:39,002 [New I/O client worker #35-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.1/plexus-io-2.0.1.jar
+2014-05-06 10:18:39,067 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.jar
+2014-05-06 10:18:39,268 [New I/O client worker #35-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.0.1/plexus-archiver-2.0.1.jar
+2014-05-06 10:18:39,348 [New I/O client worker #35-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2014-05-06 10:18:39,404 [New I/O client worker #35-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+2014-05-06 10:18:45,015 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:45,029 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-06 10:18:45,039 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:45,054 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-06 10:18:45,513 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-06 10:18:47,900 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:47,912 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-06 10:18:47,927 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:47,948 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-06 10:18:48,957 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-06 10:18:50,396 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-06 10:18:55,836 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:55,858 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-06 10:18:55,885 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:55,914 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-06 10:18:58,094 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-06 10:18:59,156 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:59,191 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-06 10:18:59,222 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:59,249 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-06 10:18:59,438 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:59,503 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-06 10:18:59,513 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:18:59,529 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-06 10:19:00,425 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:hellorest-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-06 10:19:00,960 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-06 10:19:02,307 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-06 10:19:02,944 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-06 10:19:12,193 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,216 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-06 10:19:12,236 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,265 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-06 10:19:12,346 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,364 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-06 10:19:12,370 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,379 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-06 10:19:12,442 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,471 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-06 10:19:12,480 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,490 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-06 10:19:12,621 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,644 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-06 10:19:12,659 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,687 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-06 10:19:12,825 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,844 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-06 10:19:12,851 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:19:12,861 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-06 10:23:29,443 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-06 10:23:29,457 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-06 10:23:29,472 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-06 10:23:33,818 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient_1.0\pom.xml.
+2014-05-06 10:23:35,240 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/main/java
+2014-05-06 10:23:35,251 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/test/java
+2014-05-06 10:23:35,583 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient_1.0\pom.xml.
+2014-05-06 10:23:35,980 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 2 sec
+2014-05-06 10:23:38,272 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-06 10:23:38,290 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-06 10:23:38,955 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:23:38,971 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-06 10:23:38,980 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 10:23:39,006 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-06 16:52:40,547 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:40,570 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-06 16:52:40,579 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:40,588 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-06 16:52:43,743 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:43,752 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-06 16:52:43,760 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:43,768 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-06 16:52:44,614 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:44,622 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-06 16:52:44,628 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:44,643 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-06 16:52:45,272 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:45,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-06 16:52:45,285 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 16:52:45,292 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-06 22:16:19,515 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:19,530 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-06 22:16:19,536 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:19,542 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-06 22:16:20,995 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:21,000 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-06 22:16:21,004 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:21,009 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-06 22:16:21,365 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:21,371 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-06 22:16:21,376 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:21,383 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-06 22:16:21,829 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:21,833 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-06 22:16:21,836 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-06 22:16:21,841 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-07 09:06:49,760 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:49,770 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 09:06:49,773 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:49,777 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 09:06:51,114 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:51,118 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 09:06:51,120 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:51,123 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 09:06:51,446 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:51,448 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 09:06:51,451 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:51,454 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 09:06:52,380 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:52,384 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-07 09:06:52,385 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:06:52,389 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-07 09:09:48,484 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:09:48,488 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 09:09:48,490 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:09:48,493 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 09:12:45,171 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-07 09:12:45,365 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/maven-metadata.xml
+2014-05-07 09:12:45,373 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/maven-metadata.xml
+2014-05-07 09:12:45,417 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-07 09:12:45,461 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/1.0/maven-archetype-j2ee-simple-1.0.jar
+2014-05-07 09:12:45,476 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-j2ee-simple/1.0/maven-archetype-j2ee-simple-1.0.jar
+2014-05-07 09:13:46,173 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 09:13:47,325 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:13:47,329 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:13:47,332 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:13:47,336 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:13:48,121 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 09:13:48,607 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:13:48,610 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:13:48,611 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:13:48,614 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:14:25,354 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:14:25,357 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:14:25,360 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:14:25,363 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:16:06,193 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:06,201 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:16:06,205 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:06,208 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:16:52,069 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:52,072 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:16:52,074 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:16:52,077 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:17:17,731 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:17,736 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:17:17,740 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:17,743 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:17:30,666 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:30,669 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:17:30,671 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:17:30,674 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:22:35,810 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:22:35,818 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:22:35,823 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:22:35,827 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:23:24,698 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:23:24,701 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:23:24,702 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:23:24,705 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:23:28,062 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:23:28,068 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:23:28,072 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:23:28,075 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:24:23,845 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:24:23,847 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:24:23,850 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:24:23,852 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 09:25:25,892 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:25,899 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 09:25:25,904 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 09:25:25,909 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources

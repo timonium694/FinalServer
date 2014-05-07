@@ -34,7 +34,7 @@ public class AuthClientImpl{
 		proxy = JAXRSClientFactory.create ( "http://localhost:8080/hellorest-server/rest", IAuthService.class,Arrays.asList(jsonProvider),true);
 	}
 	
-	public AuthUser createUser(String userName,String password,AuthorityLevel authority) throws InvalidTokenException, UserDoesNotExistException
+	public AuthUser createUser(String userName, String password, AuthorityLevel authority) throws InvalidTokenException, UserDoesNotExistException
 	{
 		CreateUserCredentialsV1 streetCred = new CreateUserCredentialsV1(userName, password, authority);
 		AuthUser authUser = null;

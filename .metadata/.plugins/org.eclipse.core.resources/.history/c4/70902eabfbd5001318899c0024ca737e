@@ -1,0 +1,12 @@
+package edu.neumont.csc380.AuctionInterfaces;
+
+import javax.ws.rs.core.Response;
+
+public interface IAuction {
+	public Response item();
+	public Response bid();
+	public Response getBid();
+	public Response update();
+	public Response delete();
+	public Response create();
+}
