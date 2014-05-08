@@ -1,0 +1,12 @@
+package edu.neumont.csc380.Client;
+
+import edu.neumont.csc380.AuctionInterfaces.IAuction;
+
+public class AuctionClient {
+	
+	private static void main(Stringp[] args)
+	{
+		
+	}
+
+}

@@ -31,7 +31,7 @@ public class AuthClientImpl{
 	{
 		JSONProvider<Object> jsonProvider = new JSONProvider<Object>();
 		jsonProvider.setIgnoreNamespaces(true);
-		proxy = JAXRSClientFactory.create ( "http://localhost:8080/hellorest-server/rest", IAuthService.class,Arrays.asList(jsonProvider),true);
+		proxy = JAXRSClientFactory.create ( "http://localhost:7076/hellorest-server/rest", IAuthService.class,Arrays.asList(jsonProvider),true);
 	}
 	
 	public AuthUser createUser(String userName, String password, AuthorityLevel authority) throws InvalidTokenException, UserDoesNotExistException

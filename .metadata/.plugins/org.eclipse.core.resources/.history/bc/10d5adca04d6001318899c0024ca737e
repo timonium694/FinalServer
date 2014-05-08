@@ -1,0 +1,13 @@
+package edu.neumont.csc380.Client;
+
+import edu.neumont.csc380.AuctionInterfaces.IAuction;
+import edu.neumont.csc380.auth.client.AuthClientImpl;
+
+public class AuctionClient {
+	
+	private static void main(String[] args)
+	{
+		AuthClientImpl wai = new AuthClientImpl();
+	}
+
+}

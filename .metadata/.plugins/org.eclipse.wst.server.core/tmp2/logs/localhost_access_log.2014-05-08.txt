@@ -1,0 +1,13 @@
+127.0.0.1 - - [08/May/2014:09:12:19 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/May/2014:09:12:21 -0600] "GET /ProfileService/rest/profile/1 HTTP/1.1" 404 1009
+127.0.0.1 - - [08/May/2014:09:13:54 -0600] "GET /ProfileService/rest/profile/1 HTTP/1.1" 404 1009
+127.0.0.1 - - [08/May/2014:09:16:18 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/May/2014:09:16:38 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/May/2014:09:16:43 -0600] "GET /Profile-server/rest/profile/1 HTTP/1.1" 500 -
+127.0.0.1 - - [08/May/2014:09:17:50 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/May/2014:09:18:12 -0600] "GET /Profile-server/rest/profile/1 HTTP/1.1" 500 -
+127.0.0.1 - - [08/May/2014:09:18:53 -0600] "GET /Profile-server/rest/profile/1 HTTP/1.1" 500 -
+127.0.0.1 - - [08/May/2014:09:20:45 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/May/2014:09:22:34 -0600] "GET /Profile-server/rest/profile/1 HTTP/1.1" 500 -
+0:0:0:0:0:0:0:1 - - [08/May/2014:09:25:51 -0600] "GET /Profile-server/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [08/May/2014:09:25:52 -0600] "GET /favicon.ico HTTP/1.1" 404 973

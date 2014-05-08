@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+<fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.sql.Timestamp"/>
+<fullyQualifiedTypeName name="edu.neumont.csc380.AuctionInterfaces.IAuction"/>
+<fullyQualifiedTypeName name="edu.neumont.csc380.auth.client.AuthClientImpl"/>
+<fullyQualifiedTypeName name="edu.neumont.csc380.auth.Authorization.AuthorityLevel"/>
+</qualifiedTypeNameHistroy>

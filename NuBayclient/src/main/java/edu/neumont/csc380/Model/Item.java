@@ -12,6 +12,10 @@ public class Item {
 	private Timestamp endDate;
 	private String owner;
 	private ItemStatus status;
-	
-
+	private String thumbnail;
+	private String image;
+	private String placeBid;
+	private String edit;
+	private String delete;
+	private String history;
 }

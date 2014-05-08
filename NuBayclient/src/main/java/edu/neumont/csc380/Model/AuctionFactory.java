@@ -4,5 +4,9 @@ import java.util.HashMap;
 
 public class AuctionFactory {
 	private HashMap<Integer, Item> items = new HashMap<Integer, Item>();
-
+	public void getItem()
+	{
+		
+	}
+	
 }

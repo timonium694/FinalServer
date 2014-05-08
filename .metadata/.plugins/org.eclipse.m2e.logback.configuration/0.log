@@ -1002,3 +1002,426 @@
 2014-05-07 09:54:38,016 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
 2014-05-07 09:54:38,020 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-05-07 09:54:38,023 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-07 10:02:57,961 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:57,966 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:02:57,968 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:57,972 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:02:58,457 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,461 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:02:58,467 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,471 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:02:58,497 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,501 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 10:02:58,503 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,506 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 10:02:58,872 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,878 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 10:02:58,880 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,885 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 10:02:58,903 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,908 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:02:58,910 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:58,914 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:02:59,302 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,305 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:02:59,307 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,311 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:02:59,327 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,331 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 10:02:59,333 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,337 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 10:02:59,357 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,362 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:02:59,366 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,370 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:02:59,392 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,395 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-07 10:02:59,397 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:02:59,400 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-07 10:03:00,555 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:00,558 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 10:03:00,560 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:00,563 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 10:03:00,584 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:00,588 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:03:00,590 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:00,595 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:03:00,613 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:00,617 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-07 10:03:00,620 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:03:00,624 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-07 10:04:29,318 [Worker-76] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 10:04:29,635 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 10:04:29,882 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 10:04:29,946 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-07 10:04:30,081 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 10:04:30,141 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 10:04:30,309 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:04:30,395 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient_1.0\pom.xml.
+2014-05-07 10:04:32,315 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Client/src/main/java
+2014-05-07 10:04:32,316 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Client/src/test/java
+2014-05-07 10:04:33,500 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Server(base)/src/main/java
+2014-05-07 10:04:33,501 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Server(base)/src/test/java
+2014-05-07 10:04:34,044 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/main/java
+2014-05-07 10:04:34,048 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/test/java
+2014-05-07 10:04:34,394 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/main/java
+2014-05-07 10:04:34,395 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/test/java
+2014-05-07 10:04:35,073 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayProfileService/src/main/java
+2014-05-07 10:04:35,074 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayProfileService/src/test/java
+2014-05-07 10:04:36,079 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayclient/src/main/java
+2014-05-07 10:04:36,080 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayclient/src/test/java
+2014-05-07 10:04:36,209 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/main/java
+2014-05-07 10:04:36,215 [Worker-76] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/test/java
+2014-05-07 10:04:36,607 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Auth-Client
+2014-05-07 10:04:36,693 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Auth-Server(base)
+2014-05-07 10:04:36,749 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CMS-server
+2014-05-07 10:04:36,818 [Worker-76] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NuBayProfileService
+2014-05-07 10:04:36,897 [Worker-76] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2014-05-07 10:04:37,450 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 10:04:38,129 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:38,134 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:04:38,139 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:38,143 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:04:38,474 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 10:04:38,974 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:38,977 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 10:04:38,979 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:38,986 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 10:04:39,005 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:39,013 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:04:39,016 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:39,022 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:04:39,158 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 10:04:39,587 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:39,591 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 10:04:39,594 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:39,599 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 10:04:40,258 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 10:04:40,802 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:40,810 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-07 10:04:40,812 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:40,822 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-07 10:04:40,888 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:40,895 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:04:40,897 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:40,901 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:04:41,030 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:41,037 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-07 10:04:41,039 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:04:41,042 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-07 10:06:48,081 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:06:48,084 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:06:48,086 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:06:48,088 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:06:49,119 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:06:49,122 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:06:49,123 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:06:49,128 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:07:53,783 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:07:53,788 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:07:53,792 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:07:53,798 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:07:54,863 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:07:54,869 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:07:54,874 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:07:54,880 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:09:10,427 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:09:10,433 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:09:10,438 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:09:10,445 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:09:26,453 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:09:26,458 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:09:26,462 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:09:26,468 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:10:40,170 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:10:40,175 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:10:40,181 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:10:40,187 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:10:46,252 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:10:46,257 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:10:46,261 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:10:46,267 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:13:15,256 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:13:15,261 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:13:15,265 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:13:15,270 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:13:59,250 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:13:59,256 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:13:59,260 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:13:59,265 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:15:17,724 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:15:17,732 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:15:17,738 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:15:17,745 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:15:18,934 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:15:18,938 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:15:18,942 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:15:18,948 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:26:33,735 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:26:33,742 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:26:33,747 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:26:33,754 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:27:25,517 [Worker-104] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:27:37,671 [Worker-104] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:27:37,857 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:27:37,862 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:27:37,865 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:27:37,869 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:28:02,571 [Worker-106] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:28:02,672 [Worker-106] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-07 10:28:02,676 [Worker-106] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/edu/neumont/csc380/Auth-Client/{}/Auth-Client-{}.pom
+2014-05-07 10:28:02,802 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:02,807 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:28:02,810 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:02,813 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:28:13,946 [Worker-104] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:28:14,315 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:14,318 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:28:14,320 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:14,325 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:28:15,564 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:15,569 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:28:15,573 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:15,578 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:28:35,916 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:35,918 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:28:35,920 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:35,924 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:28:39,443 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:39,450 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:28:39,455 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:39,460 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:28:47,362 [Worker-99] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 10:28:47,657 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 10:28:47,878 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 10:28:47,946 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-07 10:28:48,089 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 10:28:48,155 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 10:28:48,293 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:28:48,380 [Worker-99] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient_1.0\pom.xml.
+2014-05-07 10:28:49,578 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Client/src/main/java
+2014-05-07 10:28:49,581 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Client/src/test/java
+2014-05-07 10:28:50,242 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Server(base)/src/main/java
+2014-05-07 10:28:50,245 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Server(base)/src/test/java
+2014-05-07 10:28:50,722 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/main/java
+2014-05-07 10:28:50,725 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/test/java
+2014-05-07 10:28:50,809 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/main/java
+2014-05-07 10:28:50,814 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/test/java
+2014-05-07 10:28:51,410 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayProfileService/src/main/java
+2014-05-07 10:28:51,410 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayProfileService/src/test/java
+2014-05-07 10:28:54,861 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayclient/src/main/java
+2014-05-07 10:28:54,864 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayclient/src/test/java
+2014-05-07 10:28:54,949 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/main/java
+2014-05-07 10:28:54,952 [Worker-99] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/test/java
+2014-05-07 10:28:55,210 [Worker-99] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Auth-Client
+2014-05-07 10:28:55,263 [Worker-99] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Auth-Server(base)
+2014-05-07 10:28:55,289 [Worker-99] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CMS-server
+2014-05-07 10:28:55,341 [Worker-99] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NuBayProfileService
+2014-05-07 10:28:55,413 [Worker-99] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2014-05-07 10:28:56,312 [Worker-111] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 10:28:56,861 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:56,864 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:28:56,866 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:56,872 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:28:57,544 [Worker-109] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 10:28:58,079 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:58,084 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 10:28:58,091 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:58,096 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 10:28:58,508 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:58,512 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:28:58,517 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:58,520 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:28:58,619 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 10:28:58,982 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:58,988 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 10:28:58,990 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:28:58,993 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 10:28:59,946 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 10:29:00,339 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:00,345 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-07 10:29:00,349 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:00,352 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-07 10:29:00,412 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:00,417 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:29:00,418 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:00,423 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:29:00,521 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:00,524 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-07 10:29:00,526 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:00,528 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-07 10:29:14,545 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:14,548 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:29:14,550 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:14,553 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:29:39,005 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:39,008 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:29:39,009 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:39,012 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:29:42,170 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:42,173 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:29:42,178 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:29:42,183 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:30:09,580 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:09,583 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:30:09,585 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:09,589 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:30:10,748 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:10,754 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:30:10,757 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:10,759 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:30:33,352 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:33,355 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:30:33,356 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:33,359 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:30:47,588 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:47,595 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:30:47,601 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:30:47,605 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:31:41,029 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:31:41,034 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:31:41,036 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:31:41,040 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:35:46,469 [Worker-118] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2014-05-07 10:35:46,869 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.7/cxf-rt-frontend-jaxrs-2.7.7-sources.jar
+2014-05-07 10:35:47,323 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.7/cxf-rt-frontend-jaxrs-2.7.7-sources.jar
+2014-05-07 10:35:47,466 [Worker-118] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.cxf:cxf-rt-frontend-jaxrs:2.7.7
+2014-05-07 10:35:47,722 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:35:47,730 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:35:47,735 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:35:47,740 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:35:48,819 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:35:48,823 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:35:48,826 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:35:48,831 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:39:55,248 [Worker-121] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:39:55,633 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:39:55,639 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:39:55,643 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:39:55,649 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:39:56,889 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:39:56,893 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:39:56,895 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:39:56,902 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:40:23,617 [Worker-123] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-07 10:40:23,949 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 10:40:24,162 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 10:40:24,216 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-client\pom.xml.
+2014-05-07 10:40:24,312 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 10:40:24,366 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 10:40:24,520 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:NuBayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayclient\pom.xml.
+2014-05-07 10:40:24,621 [Worker-123] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient_1.0:ProfileNubayClient_1.0:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient_1.0\pom.xml.
+2014-05-07 10:40:25,958 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Client/src/main/java
+2014-05-07 10:40:25,958 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Client/src/test/java
+2014-05-07 10:40:26,612 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Server(base)/src/main/java
+2014-05-07 10:40:26,614 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Auth-Server(base)/src/test/java
+2014-05-07 10:40:27,044 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/main/java
+2014-05-07 10:40:27,048 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-client/src/test/java
+2014-05-07 10:40:27,121 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/main/java
+2014-05-07 10:40:27,124 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CMS-server/src/test/java
+2014-05-07 10:40:27,696 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayProfileService/src/main/java
+2014-05-07 10:40:27,696 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayProfileService/src/test/java
+2014-05-07 10:40:28,151 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayclient/src/main/java
+2014-05-07 10:40:28,155 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NuBayclient/src/test/java
+2014-05-07 10:40:28,259 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/main/java
+2014-05-07 10:40:28,264 [Worker-123] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient_1.0/src/test/java
+2014-05-07 10:40:28,682 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Auth-Client
+2014-05-07 10:40:28,746 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Auth-Server(base)
+2014-05-07 10:40:28,768 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CMS-server
+2014-05-07 10:40:28,806 [Worker-123] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for NuBayProfileService
+2014-05-07 10:40:28,866 [Worker-123] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2014-05-07 10:40:29,266 [Worker-128] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Client:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Client\pom.xml.
+2014-05-07 10:40:29,746 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:29,750 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-07 10:40:29,752 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:29,756 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-07 10:40:30,295 [Worker-132] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:Auth-Server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\Auth-Server(base)\pom.xml.
+2014-05-07 10:40:30,769 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:30,772 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-07 10:40:30,777 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:30,780 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-07 10:40:31,021 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:31,026 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\main\resources
+2014-05-07 10:40:31,033 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:31,037 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-client\src\test\resources
+2014-05-07 10:40:31,156 [Worker-133] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:CMS-server:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\CMS-server\pom.xml.
+2014-05-07 10:40:31,432 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:31,439 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-07 10:40:31,441 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:31,445 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-07 10:40:32,473 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: edu.neumont.csc380:ProfileWebService:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\NuBayProfileService\pom.xml.
+2014-05-07 10:40:32,881 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:32,888 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-07 10:40:32,892 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:32,895 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-07 10:40:32,951 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:32,955 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:40:32,956 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:32,960 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-07 10:40:33,045 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:33,048 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\main\resources
+2014-05-07 10:40:33,049 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:40:33,052 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient_1.0\src\test\resources
+2014-05-07 10:45:45,726 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:45:45,728 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\main\resources
+2014-05-07 10:45:45,730 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-07 10:45:45,733 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayclient\src\test\resources
+2014-05-08 09:02:39,869 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:39,869 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\main\resources
+2014-05-08 09:02:39,869 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:39,885 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Client\src\test\resources
+2014-05-08 09:02:40,760 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:40,760 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-08 09:02:40,776 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:40,776 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-08 09:02:41,119 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:41,119 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\main\resources
+2014-05-08 09:02:41,119 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:41,119 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\CMS-server\src\test\resources
+2014-05-08 09:02:41,588 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:41,588 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-08 09:02:41,588 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:41,604 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-08 09:02:41,854 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:41,854 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\main\resources
+2014-05-08 09:02:41,854 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:02:41,854 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\Auth-Server(base)\src\test\resources
+2014-05-08 09:11:31,900 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-08 09:11:31,906 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-08 09:11:31,910 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-08 09:11:34,209 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient:ProfileNubayClient:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient\pom.xml.
+2014-05-08 09:11:35,255 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient/src/main/java
+2014-05-08 09:11:35,259 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProfileNubayClient/src/test/java
+2014-05-08 09:11:35,635 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2014-05-08 09:11:35,763 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-08 09:11:35,767 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-08 09:11:36,407 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient:ProfileNubayClient:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient\pom.xml.
+2014-05-08 09:11:36,965 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:11:36,968 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\main\resources
+2014-05-08 09:11:36,975 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:11:36,981 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\test\resources
+2014-05-08 09:11:37,644 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProfileNubayClient:ProfileNubayClient:0.0.1-SNAPSHOT @ C:\AllServers\FinalServer\ProfileNubayClient\pom.xml.
+2014-05-08 09:11:38,138 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:11:38,145 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\main\resources
+2014-05-08 09:11:38,150 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:11:38,157 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\test\resources
+2014-05-08 09:12:57,430 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:12:57,436 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\main\resources
+2014-05-08 09:12:57,442 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:12:57,450 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\test\resources
+2014-05-08 09:14:40,729 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:14:40,736 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\main\resources
+2014-05-08 09:14:40,742 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:14:40,749 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\test\resources
+2014-05-08 09:16:14,155 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:16:14,169 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\main\resources
+2014-05-08 09:16:14,178 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:16:14,189 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\test\resources
+2014-05-08 09:24:49,645 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:24:49,656 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\main\resources
+2014-05-08 09:24:49,663 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:24:49,670 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\NuBayProfileService\src\test\resources
+2014-05-08 09:24:49,711 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:24:49,718 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\main\resources
+2014-05-08 09:24:49,720 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-08 09:24:49,723 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\AllServers\FinalServer\ProfileNubayClient\src\test\resources
