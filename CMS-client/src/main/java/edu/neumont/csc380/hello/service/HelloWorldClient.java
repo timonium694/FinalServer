@@ -8,67 +8,119 @@ import org.apache.cxf.jaxrs.client.JAXRSClientFactory;
 import org.apache.cxf.jaxrs.provider.json.JSONProvider;
 
 public class HelloWorldClient {
-	private HelloWorldService service = JAXRSClientFactory.create("http://localhost:8080/hellorest-server/rest", HelloWorldService.class, Arrays.asList(new JSONProvider<Object>()));
+	private ImageService imageService = JAXRSClientFactory.create("http://localhost:8080/CMS-server/rest", ImageService.class, Arrays.asList(new JSONProvider<Object>()));
+	private VideoService videoService = JAXRSClientFactory.create("http://localhost:8080/CMS-server/rest", VideoService.class, Arrays.asList(new JSONProvider<Object>()));
 	
-//	public Greeting getGreeting(Long id) {
-//		return service.getGreeting(id).readEntity(Greeting.class);
-//	}
-//
-//	public Greeting updateGreeting(Long id, Greeting greeting) {
-//		return service.updateGreeting(id, greeting).readEntity(Greeting.class);
-//	}
-//
-//	public Greeting createGreeting(Greeting greeting) {
-//		return service.createGreeting(greeting).readEntity(Greeting.class);
-//	}
-//
-//	public void deleteGreeting(Long id) {
-//		service.deleteGreeting(id);
-//	}
-//
-//	public static void main(String[] args) {
-//		HelloWorldClient c = new HelloWorldClient();
-//		Greeting g = new Greeting();
-//		g.setMessage("dave");
-//		Greeting created = c.createGreeting(g);
-//		System.out.println(c.getGreeting(created.getId()));
-//	}
-	
-	public Image getImage(Long id)
+	public Image getImage(Long id, Image image)
 	{
-		return service.getImage(id).readEntity(Image.class);
+		Image i = imageService.getImage(id).readEntity(Image.class);
+		return i;
 	}
 	
-	public Video getVideo(Long id)
+	public Video getVideo(Long id, Video video)
 	{
-		return service.getVideo(id).readEntity(Video.class);
+		return videoService.getVideo(id, video).readEntity(Video.class);
 	}
 	
 	public Image createImage(Image image)
 	{
-		return service.createImage(image).readEntity(Image.class);
+		return imageService.createImage(image).readEntity(Image.class);
 	}
 	
 	public Video createVideo(Video video)
 	{
-		return service.createVideo(video).readEntity(Video.class);
+		return videoService.createVideo(video).readEntity(Video.class);
+	}
+	
+	public Image updateImage(Long id, Image image)
+	{
+		return imageService.updateImage(id, image).readEntity(Image.class);
+	}
+	
+	public Video updateVideo(Long id, Video video)
+	{
+		return videoService.updateVideo(id, video).readEntity(Video.class);
 	}
 	
 	public void deleteImage(Long id)
 	{
-		service.deleteImage(id);
+		imageService.deleteImage(id);
 	}
 	
 	public void deleteVideo(Long id)
 	{
-		service.deleteVideo(id);
+		videoService.deleteVideo(id);
 	}
 	
 	public static void main(String[] args)
 	{
 		HelloWorldClient c = new HelloWorldClient();
+		
 		Image i = new Image();
-		Image created = i.createImage(i);
-		System.out.println(i.getImage(created.getId()));
+		i.setFileName("testImage.png");
+		i.setHeight(300);
+		i.setWidth(300);
+		i.setFileSize(11);
+		i.print();
+		System.out.println();
+		
+		i = c.createImage(i);
+		System.out.println("Create Image");
+		i.print();
+		System.out.println();
+		
+		Long idImage = i.getId();
+
+		i.setFileName("updateTest.jpg");
+		i = c.updateImage(idImage, i);
+		System.out.println("Update Image");
+		i.print();
+		System.out.println();
+		
+		i = c.getImage(idImage, new Image());
+		System.out.println("Get Image " + idImage);
+		i.print();
+		System.out.println();
+		
+		System.out.println("Deleted Image");
+		c.deleteImage(idImage);
+
+		i = c.getImage(idImage, new Image());
+		System.out.println("Get Image " + idImage);
+		i.print();
+		System.out.println();
+		
+		
+		Video v = new Video();
+		v.setFileName("testVideo.png");
+		v.setFileSize(9);
+		v.print();
+		System.out.println();
+		
+		v = c.createVideo(v);
+		System.out.println("Create Video");
+		v.print();
+		System.out.println();
+		
+		Long idVideo = v.getId();
+		
+		v.setFileName("updateTest.jpg");
+		v = c.updateVideo(idVideo, v);
+		System.out.println("Update Video");
+		v.print();
+		System.out.println();
+		
+		v = c.getVideo(idVideo, new Video());
+		System.out.println("Get Video " + idVideo);
+		v.print();
+		System.out.println();
+		
+		System.out.println("Deleted Video " + idVideo);
+		c.deleteVideo(idVideo);
+		
+		v = c.getVideo(idVideo, new Video());
+		System.out.println("Get Video " + idVideo);
+		v.print();
+		System.out.println();
 	}
 }
