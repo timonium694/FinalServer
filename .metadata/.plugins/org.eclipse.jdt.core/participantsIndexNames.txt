@@ -1,13 +1,13 @@
 INDEX VERSION 1.126
-E:\Documents\Quarter8\DistributedSystems\Workspaces\Lab3\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\546163399.index
-\CMS-server\src\main\java
-E:\Documents\Quarter8\DistributedSystems\Workspaces\Lab3\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2384653673.index
-\Auth-Server(base)\src\main\java
-E:\Documents\Quarter8\DistributedSystems\Workspaces\Lab3\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\40706498.index
-\NuBayProfileService\src\main\java
-E:\Documents\Quarter8\DistributedSystems\Workspaces\Lab3\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2276014874.index
-\Auth-Client\src\main\java
-E:\Documents\Quarter8\DistributedSystems\Workspaces\Lab3\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\410183040.index
-\Auction-Client\src\main\java
-E:\Documents\Quarter8\DistributedSystems\Workspaces\Lab3\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\871263409.index
+C:\AllServers\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\871263409.index
 \Auction-Server\src\main\java
+C:\AllServers\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2276014874.index
+\Auth-Client\src\main\java
+C:\AllServers\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\546163399.index
+\CMS-server\src\main\java
+C:\AllServers\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\40706498.index
+\NuBayProfileService\src\main\java
+C:\AllServers\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\410183040.index
+\Auction-Client\src\main\java
+C:\AllServers\FinalServer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2384653673.index
+\Auth-Server(base)\src\main\java

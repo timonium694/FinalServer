@@ -11,3 +11,5 @@
 127.0.0.1 - - [08/May/2014:09:22:34 -0600] "GET /Profile-server/rest/profile/1 HTTP/1.1" 500 -
 0:0:0:0:0:0:0:1 - - [08/May/2014:09:25:51 -0600] "GET /Profile-server/ HTTP/1.1" 200 57
 0:0:0:0:0:0:0:1 - - [08/May/2014:09:25:52 -0600] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [08/May/2014:20:34:24 -0600] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [08/May/2014:20:34:41 -0600] "POST /Profile-server/rest/profile/create HTTP/1.1" 200 179
