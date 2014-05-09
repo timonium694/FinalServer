@@ -1,0 +1,9 @@
+package edu.neumont.csc380.service;
+
+import javax.ws.rs.Path;
+
+@Path("/auction")
+public interface AuctionService {
+
+	
+}

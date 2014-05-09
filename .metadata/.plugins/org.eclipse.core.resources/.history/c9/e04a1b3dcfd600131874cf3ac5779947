@@ -1,0 +1,21 @@
+package edu.neumont.csc380.service;
+;
+import javax.ws.rs.Consumes;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.Response;
+
+import models.Auction;
+
+@Path("/auction")
+@Consumes("application/vnd.neumont.auth.edu-v1+jso")
+@Produces("application/vnd.neumont.auth.edu-v1+jso")
+public interface AuctionService {
+	Auction auctionDataLayer = new Auction();
+	@POST
+	Response createAuction(Item item){
+		auctionDataLayer
+	}
+	
+}

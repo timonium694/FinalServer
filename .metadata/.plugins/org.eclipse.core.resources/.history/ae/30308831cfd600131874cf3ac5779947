@@ -1,0 +1,33 @@
+package models;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class Auction {
+
+	HashMap<Item, ArrayList<Bid>> auctions = new HashMap<Item, ArrayList<Bid>>();
+	
+	public boolean addAuction(Item item){
+		boolean itemAdded = false;
+		ArrayList<Bid> bids;
+		if((bids = auctions.put(item, new ArrayList<Bid>())) == null)
+			itemAdded = true;
+		else
+				auctions.put(item, bids);
+		return itemAdded;
+	}
+	
+	ArrayList<Bid> getBids(Item item){
+		return auctions.get(item);
+	}
+	
+	public boolean addBid(Item item,Bid bid){
+		boolean bidAdded = false;
+		if(bid.getAmount() == 0.0 && bid.getUsername() != null)
+		{
+			auctions.get(item).add(bid);
+			bidAdded = true;
+		}
+		return bidAdded;
+	}
+}

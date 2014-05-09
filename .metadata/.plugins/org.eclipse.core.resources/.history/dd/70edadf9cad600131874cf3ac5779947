@@ -1,0 +1,7 @@
+package edu.neumont.csc380.service;
+
+@path()
+public interface AuctionService {
+
+	
+}

@@ -1,0 +1,8 @@
+package models;
+
+public class Bid {
+	private String username;
+	private float amount;
+	
+	
+}

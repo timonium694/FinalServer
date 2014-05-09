@@ -1,0 +1,12 @@
+package models;
+
+import java.util.HashMap;
+
+public class Auction {
+
+	HashMap<Item, ArrayList<Bid>> auctions = new HashMap<Item, Bid>();
+	
+	boolean addAuction(Item item){
+		auctions.put(item, new )
+	}
+}

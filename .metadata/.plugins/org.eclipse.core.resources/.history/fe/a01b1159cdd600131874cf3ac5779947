@@ -1,0 +1,9 @@
+package models;
+
+import java.util.HashMap;
+
+public class Auction {
+
+	HashMap<Item, Bid> auctions = new HashMap<Item, Bid>();
+	
+}
