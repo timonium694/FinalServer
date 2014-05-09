@@ -1,0 +1,47 @@
+package edu.neumont.csc380.service;
+
+import java.util.List;
+
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+import models.Auction;
+import models.Bid;
+import models.Item;
+
+public class AuctionServiceImpl implements AuctionService {
+
+	Auction auctionDataLayer = new Auction();
+	public Response createAuction(Item item) {
+		boolean success = auctionDataLayer.addAuction(item);
+		if(success)
+			return Response.status(Response.Status.CONFLICT).build();
+		return Response.status(Response.Status.CREATED).build();
+	}
+
+	public Response getAllAuctions() {
+		List<Item> items = auctionDataLayer.getAllAuctions();
+		return Response.ok(items, MediaType.APPLICATION_JSON).build();
+	}
+
+	public Response getAuction(int id) {
+		Item auction = auctionDataLayer.getItemById(id);
+		return null;
+	}
+
+	public Response deleteBid(Bid bid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response updateItem(Item item) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response placeBid(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

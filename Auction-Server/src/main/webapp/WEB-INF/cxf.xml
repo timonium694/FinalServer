@@ -25,7 +25,7 @@
 	
     <jaxrs:server id="jaxrsService" address="/">
        <jaxrs:serviceBeans>
-	      <ref bean="authService"/>
+	      <ref bean="AuctionServer"/>
 	   </jaxrs:serviceBeans>
 	   <jaxrs:providers>
 	   	  <ref bean="jsonProvider"/>

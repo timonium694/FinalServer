@@ -2,6 +2,8 @@ package models;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
+
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
@@ -19,13 +21,20 @@ public class Auction {
 		return itemAdded;
 	}
 	
+	public List<Item> getAllAuctions(){
+		List<Item> items = new ArrayList<Item>();
+		items.addAll(auctions.keySet());
+		return items;
+	}
+	
 	public ArrayList<Bid> getBids(Item item){
 		return auctions.get(item);
 	}
 	
-	public boolean addBid(Item item,Bid bid){
+	public boolean addBid(int id,Bid bid){
 		boolean bidAdded = false;
-		if(bid.getAmount() == 0.0 && bid.getUsername() != null)
+		Item item = getItemById(id);
+		if(bid.getAmount() == 0.0 && bid.getUsername() != null && item != null)
 		{
 			auctions.get(item).add(bid);
 			bidAdded = true;
@@ -33,9 +42,9 @@ public class Auction {
 		return bidAdded;
 	}
 	
-	public boolean removeBid(Item item, Bid bid){
+	public boolean removeBid(int id, Bid bid){
 		boolean bidRemoved = false;
-		
+		Item item = getItemById(id);
 		if(auctions.get(item) != null&&auctions.get(item).contains(bid)){
 			auctions.get(item).remove(bid);
 			bidRemoved = true;
@@ -55,7 +64,7 @@ public class Auction {
 		return itemUpdated;
 	}
 	
-	protected Item getItemById(int id){
+	public Item getItemById(int id){
 		for(Item i : auctions.keySet()){
 			if(i.getId() == id)
 				return i;

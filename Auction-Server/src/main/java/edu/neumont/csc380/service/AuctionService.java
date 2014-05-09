@@ -29,13 +29,14 @@ public interface AuctionService {
 	Response getAuction(@PathParam("id") int id);
 	
 	@DELETE
-	Response deleteBid(Bid bid);
+	@Path("/{id}")
+	Response deleteBid(@PathParam("id") int id, Bid bid);
 	
 	@PUT
 	@Path("/{id}")
-	Response updateItem(Item item);
+	Response updateItem(@PathParam("id") int id, Item item);
 	
 	@POST
 	@Path("/{id}")
-	Response placeBid(@PathParam("id") int id);
+	Response placeBid(@PathParam("id") int id, Bid bid);
 }

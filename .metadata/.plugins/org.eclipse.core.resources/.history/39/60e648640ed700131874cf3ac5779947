@@ -1,0 +1,40 @@
+package edu.neumont.csc380.service;
+
+import javax.ws.rs.core.Response;
+
+import models.Bid;
+import models.Item;
+
+public class AuctionServiceImpl implements AuctionService {
+
+	public Response createAuction(Item item) {
+		Auction auctionDataLayer = new Auction();
+		return null;
+	}
+
+	public Response getAllAuctions() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response getAuction(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response deleteBid(Bid bid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response updateItem(Item item) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response placeBid(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
