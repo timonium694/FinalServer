@@ -1,0 +1,70 @@
+package edu.neumont.csc380.Client;
+
+import java.util.Arrays;
+import java.util.List;
+
+import javax.ws.rs.core.Response;
+
+import org.apache.cxf.jaxrs.client.JAXRSClientFactory;
+
+import models.Auction;
+import models.Bid;
+import models.Item;
+import edu.neumont.csc380.Interfaces.AuctionService;
+
+import org.apache.cxf.jaxrs.provider.json.*;
+
+public class AuctionClientService
+{
+	private final AuctionService proxy;
+	private JSONProvider<Object> jsonProvider;
+	public AuctionClientService()
+	{
+		jsonProvider = new JSONProvider<Object>();
+		jsonProvider.setIgnoreNamespaces(true);
+		proxy = JAXRSClientFactory.create("http://localhost:7076/hellorest-server/rest", AuctionService.class, Arrays.asList(jsonProvider), true);
+	}
+
+	public Item createAuction(Item item)
+	{
+		Response resp = proxy.createAuction(item);
+		Item itemCreated = null;
+		if(resp.getStatus()==200)
+		{
+			itemCreated = resp.readEntity(Item.class);
+		}
+		return itemCreated;
+	}
+
+	public List<Item> getAllAuctions()
+	{
+		Response resp = proxy.getAllAuctions();
+		if(resp.getStatus()==200)
+		return null;
+	}
+
+	public Response getAuction(int id)
+	{
+		
+		return null;
+	}
+
+	public Response deleteBid(Bid bid)
+	{
+
+		return null;
+	}
+
+	public Response updateItem(Item item)
+	{
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Response placeBid(int id)
+	{
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

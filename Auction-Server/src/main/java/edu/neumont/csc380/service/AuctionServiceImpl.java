@@ -49,7 +49,7 @@ public class AuctionServiceImpl implements AuctionService {
 	public Response placeBid(int id, Bid bid) {
 		if(auctionDataLayer.addBid(id, bid))
 			return Response.notModified().build();
-		return Response.ok();
+		return Response.ok().build();
 	}
 
 }
